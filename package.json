@@ -1,20 +1,33 @@
 {
-    "name": "Team-Profile-Generator",
-    "version": "1.0.0",
-    "description": "",
-    "main": "index.js",
-    "scripts": {
-        "start": "node index",
-        "watch": "nodemon index",
-        "test": "jest"
-    },
-    "author": "",
-    "license": "ISC",
-    "dependencies": {
-        "chalk": "^2.4.1",
-        "inquirer": "^8.2.4"
-    },
-    "devDependencies": {
-        "jest": "^24.8.0"
-    }
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "## Description",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "watch": "nodemon index",
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^24.8.0"
+  },
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeannav/Team-Profile-Generator.git"
+  },
+  "keywords": [],
+  "bugs": {
+    "url": "https://github.com/jeannav/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/jeannav/Team-Profile-Generator#readme"
 }
