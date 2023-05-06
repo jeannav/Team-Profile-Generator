@@ -44,7 +44,7 @@ THEN I exit the application, and the HTML is generated
 
 ## Walkthrough Video
 
-[Walkthrough Video]()
+[Walkthrough Video](https://drive.google.com/file/d/1EhJGq_imwvrdFm4NQmnGAub4L8yVdclF/view)
 
 
 ## Deployed Link
